@@ -1,0 +1,21 @@
+{
+    "name": "nextapp",
+    "version": "1.0.0",
+    "description": "Demonstrating Next.js usage",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "yarn start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bwoodlt"
+    },
+    "author": "Kunle Adetayo",
+    "license": "ISC",
+    "dependencies": {
+        "next": "^2.0.1"
+    }
+
+
+}
